@@ -1,7 +1,7 @@
 # Get command-line arguments
 tf <- commandArgs(trailingOnly = TRUE)
 
-here::i_am("wtm_ad.Rproj")
+here::i_am("wtm_gn.Rproj")
 
 # setwd("template")
 # getwd()
